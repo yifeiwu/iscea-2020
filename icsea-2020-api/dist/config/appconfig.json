@@ -1,0 +1,15 @@
+{
+  "readOnly": false,
+  "enableApiKeyAuth": false,
+  "jsonFile": "/Users/yifeiwu/code/icsea/db.json",
+  "enableJSONValidation": true,
+  "enableSwagger": true,
+  "logLevel": "info",
+  "stackName": "icsea-2020-api",
+  "routes": {
+    "apiRoutePath": "/api",
+    "swaggerUIRoutePath": "/ui",
+    "swaggerSpecRoutePath": "/api-spec",
+    "graphqlRoutePath": "/graphql"
+  }
+}
