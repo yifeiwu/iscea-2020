@@ -14,4 +14,4 @@ GraphiQL                      https://xxxx.ap-southeast-2.amazonaws.com/dev/grap
 Swagger Specification         https://xxxx.ap-southeast-2.amazonaws.com/dev/api-spec     
 API Routes                    https://xxxx.ap-southeast-2.amazonaws.com/dev/api/{routes} 
 
-Sample Query - ht tps://oo8t2w8jfd.execute-api.ap-southeast-2.amazonaws.com/dev/api/schools?suburb=Hampton%20Park
+Sample Query - https:/3k4mn3at7k.execute-api.ap-southeast-2.amazonaws.com/dev/api/schools?suburb=Hampton%20Park
